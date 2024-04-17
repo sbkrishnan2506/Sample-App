@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Welcome to xcode cloud!")
+            Text("Welcome to xcode cloud! ")
         }
         .padding()
     }
